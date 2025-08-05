@@ -202,4 +202,4 @@ All available products specified above are enabled by default.
 
 Other interesting Stuff
 ^^^^^^^^^^^^^^^^^^^^^^^
-* Official API documentation: `<https://help.rejseplanen.dk/hc/da/articles/214174465-Rejseplanens-API>`_
+* Official API documentation: `<https://labs.rejseplanen.dk/hc/da/articles/21554723926557-Om-API-2-0>`_
