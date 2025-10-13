@@ -49,7 +49,7 @@ class RKRPProfile(BaseProfile):
         'suburban': [16],  # S
         'bus': [32],  # BUS
         'ferry': [64],  # F
-        'subway': [128],  # U
+        'subway': [128,1024],  # U
         'tram': [256, 2048],  # T
         'taxi': [512]  # Group Taxi
     }
